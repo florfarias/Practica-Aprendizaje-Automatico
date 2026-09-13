@@ -1,0 +1,12 @@
+[
+  {"cliente_id":"C001","nombre":"Sofia Martinez","edad":29,"ciudad":"Ushuaia","email":"sofia.martinez@example.com","fecha_registro":"2025-11-12","cliente_frecuente":true},
+  {"cliente_id":"C002","nombre":"Lucas Gomez","edad":35,"ciudad":"Rio Grande","email":"lucas.gomez@example.com","fecha_registro":"2026-01-08","cliente_frecuente":true},
+  {"cliente_id":"C003","nombre":"Valentina Perez","edad":24,"ciudad":"Ushuaia","email":"valentina.perez@example.com","fecha_registro":"2026-02-17","cliente_frecuente":false},
+  {"cliente_id":"C004","nombre":"Mateo Rodriguez","edad":41,"ciudad":"Tolhuin","email":"mateo.rodriguez@example.com","fecha_registro":"2025-09-03","cliente_frecuente":true},
+  {"cliente_id":"C005","nombre":"Camila Lopez","edad":32,"ciudad":"Rio Grande","email":"camila.lopez@example.com","fecha_registro":"2026-03-21","cliente_frecuente":false},
+  {"cliente_id":"C006","nombre":"Joaquin Fernandez","edad":27,"ciudad":"Ushuaia","email":"joaquin.fernandez@example.com","fecha_registro":"2026-04-10","cliente_frecuente":false},
+  {"cliente_id":"C007","nombre":"Martina Diaz","edad":38,"ciudad":"Rio Grande","email":"martina.diaz@example.com","fecha_registro":"2025-12-05","cliente_frecuente":true},
+  {"cliente_id":"C008","nombre":"Benjamin Torres","edad":30,"ciudad":"Tolhuin","email":"benjamin.torres@example.com","fecha_registro":"2026-05-14","cliente_frecuente":false},
+  {"cliente_id":"C009","nombre":"Julieta Sanchez","edad":26,"ciudad":"Ushuaia","email":"julieta.sanchez@example.com","fecha_registro":"2026-06-02","cliente_frecuente":false},
+  {"cliente_id":"C010","nombre":"Tomas Alvarez","edad":45,"ciudad":"Rio Grande","email":"tomas.alvarez@example.com","fecha_registro":"2025-10-19","cliente_frecuente":true}
+]

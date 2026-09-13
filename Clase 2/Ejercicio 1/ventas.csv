@@ -1,0 +1,16 @@
+venta_id,fecha,cliente_id,producto_id,producto,categoria,cantidad,precio_unitario,medio_pago,canal
+V001,2026-08-01,C001,P001,Auriculares Bluetooth,Electronica,2,45990.00,Tarjeta,Web
+V002,2026-08-02,C002,P004,Mochila urbana,Accesorios,1,38500.00,Transferencia,App
+V003,2026-08-03,C003,P002,Mouse inalambrico,Electronica,3,18500.00,Billetera virtual,Web
+V004,2026-08-04,C001,P006,Botella termica,Hogar,1,27990.00,Tarjeta,App
+V005,2026-08-05,C004,P003,Teclado mecanico,Electronica,1,68990.00,Transferencia,Web
+V006,2026-08-06,C005,P008,Cuaderno premium,Libreria,4,8500.00,Billetera virtual,App
+V007,2026-08-07,C006,P005,Reloj inteligente,Electronica,1,89990.00,Tarjeta,Web
+V008,2026-08-08,C007,P010,Lampara de escritorio,Hogar,2,24900.00,Efectivo,Tienda
+V009,2026-08-09,C008,P007,Set de organizadores,Hogar,2,19990.00,Transferencia,App
+V010,2026-08-10,C009,P009,Cargador portatil,Electronica,1,35990.00,Tarjeta,Web
+V011,2026-08-11,C010,P001,Auriculares Bluetooth,Electronica,1,45990.00,Billetera virtual,App
+V012,2026-08-12,C003,P004,Mochila urbana,Accesorios,2,38500.00,Tarjeta,Web
+V013,2026-08-13,C005,P002,Mouse inalambrico,Electronica,1,18500.00,Efectivo,Tienda
+V014,2026-08-14,C007,P006,Botella termica,Hogar,3,27990.00,Transferencia,App
+V015,2026-08-15,C002,P008,Cuaderno premium,Libreria,2,8500.00,Tarjeta,Web
